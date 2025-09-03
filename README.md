@@ -3,7 +3,9 @@
 This project is a web application built using Streamlit that classifies images of fashion items into one of the 10 categories from the Fashion-MNIST dataset. The app allows users to upload an image, preprocess it, and predict its class using a pre-trained machine learning model.
 
 ## Deplyment Link:
-[Stream Deployment](https://recenttrendinai-js2uj2wu5eshotbthtvqqr.streamlit.app/)
+[Streamlit Deployment](https://recenttrendinai-js2uj2wu5eshotbthtvqqr.streamlit.app/)
+
+** Only Valid for 7 days after deployment, as per free plan.
 
 ## Features
 - Upload an image file (PNG, JPG, JPEG).
