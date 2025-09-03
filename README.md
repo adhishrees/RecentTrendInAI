@@ -93,6 +93,6 @@ The results of the model evaluation are as follows:
 
 ## Additional Resources
 
-- **Model Weights and Sample Images**: [Google Drive Link](https://drive.google.com/drive/folders/1xLvJJqGFviPnpdAB0r2mh4vfe5yzECaW?usp=sharing)
+- **Model Weights and Sample Images**: [Google Drive Link](https://drive.google.com/drive/folders/1NeEtFYgRbQbEyJRtSfi2h_TElcQBcLam?usp=share_link)
 
 
